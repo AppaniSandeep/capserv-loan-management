@@ -14,13 +14,6 @@ All data is stored locally (JSON / localStorage). No backend required.
   - Filter by customer, loan type, status, city, or date  
   - Logout clears session  
 - **Toast Notifications:** Feedback for login, signup, and logout  
-
-**Optional / Bonus:**  
-- React Context for auth  
-- Protected routes  
-- Debounced search, sorting, pagination  
-- Dark mode toggle  
-
 ---
 
 ## 💻 Tech Stack
